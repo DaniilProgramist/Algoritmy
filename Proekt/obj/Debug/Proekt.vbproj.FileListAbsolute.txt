@@ -1,0 +1,25 @@
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\bin\Debug\Proekt.exe.config
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.vbprojResolveAssemblyReference.cache
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.Resources.resources
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.vbproj.GenerateResource.Cache
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\bin\Debug\Proekt.exe
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\bin\Debug\Proekt.pdb
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\bin\Debug\Proekt.xml
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.exe
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.xml
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.pdb
+c:\users\chumachenko_dm_19\documents\visual studio 2015\Projects\Proekt\Proekt\obj\Debug\Proekt.Form2.resources
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\bin\Debug\Proekt.xml
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.vbprojAssemblyReference.cache
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.Form1.resources
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.Form2.resources
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.Resources.resources
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.vbproj.GenerateResource.cache
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.xml
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\Комплюхтар\Desktop\Proekt\Proekt\obj\Debug\Proekt.Form5.resources
